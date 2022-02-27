@@ -1,10 +1,10 @@
 # exerciseSDA
 
-Nama  :Muhammad Irfan
+Nama  : Muhammad Irfan
 
-NPM   :G1A021082
+NPM   : G1A021082
 
-Dosen Pengampu  :Mochammad Yusa,S.Kom.,M.Kom.
+Dosen Pengampu  : Mochammad Yusa,S.Kom.,M.Kom.
 
 
 table 1
